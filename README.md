@@ -1,0 +1,6 @@
+# Git_Tutorial
+Git Immersion files and tasks
+
+http://gitimmersion.com/
+
+"GIT IMMERSION IS A GUIDED TOUR THAT WALKS THROUGH THE FUNDAMENTALS OF GIT, INSPIRED BY THE PREMISE THAT TO KNOW A THING IS TO DO IT."
